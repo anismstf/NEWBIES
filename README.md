@@ -1,6 +1,11 @@
 # UUM ACADOVA 
 
-## Project Description
+## Group Members
+1. Anis Amalin Binti Mustaffa (309356)
+2. Siti Hajar Binti Ismail (312754)
+3. Maya Zulaika Binti Azhar Ahmad (312121)
+
+### Project Description
 UUM ACADOVA  is a web-based Student Consultation Booking System proposed for Universiti Utara Malaysia (UUM).
 
 This system aims to simplify and centralise the consultation booking process between students and lecturers.
@@ -9,10 +14,7 @@ lecturers can create consultation slots, review student booking requests, approv
 
 This system also aims to improve lecturer discovery and consultation accessibility across participating UUM Schools through a centralised lecturer directory.
 
-### Group Members
-1. Anis Amalin Binti Mustaffa (309356)
-2. Siti Hajar Binti Ismail (312754)
-3. Maya Zulaika Binti Azhar Ahmad (312121)
+
 
 
 
